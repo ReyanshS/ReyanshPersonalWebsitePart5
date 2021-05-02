@@ -1,0 +1,134 @@
+body {
+    text-align: center;
+    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+    
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    text-align: center;
+}
+#Welcome {
+    padding: 70px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: fantasy;
+}
+h2 {
+    font-size: 20px;
+    text-align: center
+    color: darkgoldenrod;
+}
+#bio {
+    padding: 20px;
+    font-size: 42;
+    background: aquamarine;
+}
+.line {
+    height: 6px;
+    background-color: Black;
+    width: 70px;
+    margin: 8px auto;
+}
+p {
+    font-size: 18px;
+    color: darkgoldenrod;
+    text-align: center;
+}
+img {
+    width: 300;
+    height: 300;
+    border-radius: 50%;
+}
+# MyName {
+    font-family:fantasy;
+}
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.menu a {
+    color: Black !important;
+}
+
+.link {
+color: aquamarine;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+.link:hover {
+    background-color: white;
+}
+html {
+    scroll-behavior: smooth;
+}
+#mywork a {
+    font-size: 38px;
+}
+#references a {
+    font-size: 38px;
+}
+.button {
+    background-color: darkgoldenrod;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+a {
+    text-decoration: none;
+}
+
+#picture {
+    width: auto;
+    height: 300px;
+    border-radius: 0%;
+    margin: 20px;
+}
+.inspiration {
+    padding-top: 20px;
+    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+}
+#contact {
+    background-color: gold;
+    padding-top: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: turquoise;
+}
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: goldenrod
+}
